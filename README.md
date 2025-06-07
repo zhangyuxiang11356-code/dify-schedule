@@ -97,3 +97,5 @@ You can submit any ideas as [Pull Requests](https://github.com/leochen-g/dify-sc
 ## License
 
 [MIT](./LICENSE)
+
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
