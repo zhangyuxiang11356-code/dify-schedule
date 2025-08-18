@@ -1,8 +1,8 @@
-name: Auto
+name: Dify schedule
 
 on:
   schedule:
-    - cron: "30 22 * * *" # 北京时间上午06:30
+    - cron: "30 22 * * *" # 北京时间下午18:00
   workflow_dispatch:
 
 env:
