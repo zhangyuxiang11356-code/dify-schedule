@@ -2,7 +2,7 @@ name: Dify schedule
 
 on:
   schedule:
-    - cron: "0 22 * * 3" # 北京时间上午06:00
+    - cron: "0 5 * * 2" # 北京时间周三上午05:00
   workflow_dispatch:
 
 env:
